@@ -1,1 +1,1 @@
-# LV-Prey-Pred-Model
+# Lotka-Volterra Prey-Predator Model
