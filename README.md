@@ -28,14 +28,4 @@ The code uses the following initial values (modify in `main` function):
 * `dt`: Time step (0.01)
 * `totalTime`: Total simulation time (100.0)
 
-Experiment with different values to explore various scenarios and population dynamics.
 
-### Further Exploration
-
-This code serves as a foundation for prey-predator model simulations. You can extend it by:
-
-* Implementing more complex population dynamics equations.
-* Introducing environmental factors influencing prey or predator populations.
-* Visualizing simulation results using plotting libraries.
-
-Feel free to modify and experiment with this code to gain insights into prey-predator population interactions!
